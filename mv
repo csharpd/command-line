@@ -1,0 +1,11 @@
+mv is a unix command . You can use it to move files to different directories ie
+
+mv sausages.txt meat
+
+will move sausages into the meat file
+
+mv sausages.txt ../pigs
+
+will move the sausages up out of the current directory into the pigs directory
+
+mvdir is the command to move directories themselves 
